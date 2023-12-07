@@ -17,8 +17,6 @@ jobs:
           USERNAME: FahdAzouz
       - name: Configure Git Credentials
         run: |
-          git config --global credential.helper 'store --file=.git-credentials'
-          echo "https://github.com/FahdAzouz:${{ secrets.PERSONAL_ACCESS_TOKEN2 }}" > .git-credentials
           git config --global user.name FahdAzouz
           git config --global user.email fahdstudies00@github.com
           git config --global credential.helper store
