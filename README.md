@@ -24,4 +24,4 @@
 
 <section display="inline-block" width="30%" border="10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahdazouz&show_icons=true&locale=en" alt="fahdazouz" /></section>
 
-<section display="inline-block" width="30%" border="10px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahdazouz&" alt="fahdazouz" /></section>
+<section display="inline-block" width="30%" border="10px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahdazouz&" alt="fahdazouz"/></section>
