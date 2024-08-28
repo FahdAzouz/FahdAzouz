@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahd</h1>
-<h3 align="center">An Upcoming Software Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fahdazouz&label=Profile%20views&color=0e75b6&style=flat" alt="fahdazouz" /> </p>
 
@@ -8,13 +8,12 @@
 
 <img align='right' src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="230">
 
-- 🔭 I’m currently working on **ALX Projects**
+- 🔭 I’m currently working on **Professional Projects**
 
 - 🌱 I’m currently learning **Software Engineering Courses**
 
 - 📫 How to reach me **fahdstudies00@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
